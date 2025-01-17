@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hi there! I'm **MrBrackhaus**, a passionate IT professional with a deep love for **cybersecurity** 🔐, **network infrastructure** 🖧, and **cloud architecture** ☁️. I've been adventuring through **Pen & Paper role-playing games** 🎲 like **DSA**, **Shadowrun**, **Call of Cthulhu**, and **Cyberpunk** for over 30 years—exploring fantasy worlds while conquering real-world tech challenges!
+Hi there! I'm **MrBrackhaus**, a passionate IT professional with a deep love for **cybersecurity** 🔐, **network infrastructure** 🖧, and **cloud architecture** ☁️. I've been adventuring through **Pen & Paper role-playing games** 🎲 like **DSA**, **Shadowrun**, **Call of Cthulhu**, and **Cyberpunk** for over 30 years, exploring fantasy worlds while conquering real-world tech challenges!
 
-In addition to my professional journey, I’m the kind of person who went out of my way to get the **Microsoft Azure Administrator (AZ-104) certification** 📜—just so I can confidently tell people that **this product isn’t all it's cracked up to be**. Yes, **I did it for you** 😏.
+In addition to my professional journey, I’m the kind of person who went out of my way to get the **Microsoft Azure Administrator (AZ-104) certification** 📜just so I can confidently tell people that **this product isn’t all it's cracked up to be**. Yes, **I did it for you** 😏.
 
-When I’m not neck-deep in code, you’ll find me **taking long walks by the lake** 🌅, working on my **strength training** 💪, or sipping on a **perfect cup of coffee** ☕ (trust me, coffee makes all the difference). Also, I’m a trained **Fachinformatiker für Systemintegration**, which means I’ve got the knowledge and experience to build reliable, secure IT systems from the ground up. 🛠️
+When I’m not neck deep in code, you’ll find me **taking long walks by the lake** 🌅, working on my **strength training** 💪, or sipping on a **perfect cup of coffee** ☕ (trust me, coffee makes all the difference). Also, I’m a trained **Fachinformatiker für Systemintegration**, which means I’ve got the knowledge and experience to build reliable, secure IT systems from the ground up. 🛠️
 
 ## My Expertise
 
