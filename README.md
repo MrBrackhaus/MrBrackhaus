@@ -20,7 +20,7 @@ I specialize in:
 
 ## Current Projects
 
-- **Secure Network Architectures** 🔐: Building enterprise-grade firewalls and secure infrastructures using OPNsense and other open-source tools.
+- **Secure Network Architectures** 🔐: Building enterprise-grade firewalls and secure infrastructures.
 - **Cloud Management** ☁️: Implementing hyper-converged infrastructures with Proxmox VE.
 - **DevOps Automation** ⚙️: Creating fully automated pipelines using Docker and Kubernetes.
 - **Ethical Hacking** 🕵️‍♂️: Conducting penetration tests and vulnerability assessments to improve security.
